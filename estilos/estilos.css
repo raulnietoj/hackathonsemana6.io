@@ -1,0 +1,118 @@
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 1000px;
+}
+.container {
+    width: 100%; 
+}
+
+header {
+    padding: 0.5em 0;
+    margin: 0.5em 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.row a{
+    text-decoration: none;
+    color: black;
+}
+.home a {
+    color:#4483d6;
+}
+
+.buscar_caja {
+    height: 50px;
+    display: flex;
+    background:#e0dfde;
+    border-radius: 10px;
+    color: #1F3F68;
+    opacity: 0.5;
+    padding: 0 1em;
+    font-size: 15px;
+    align-items: center;
+}
+.buscar img {
+    margin-left: 10px;
+}
+.buscar_caja p {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.popular h4 {
+    color: #356EAD;
+    font-size: 18px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.art_texto h3{
+    color: #1F3F68;
+    font-size: 30px;
+}
+.art_texto p{
+    font-size: 14px;
+    letter-spacing: 0.05em;
+    opacity: 0.6;
+}
+
+.col-8 .art_nombre {
+    font-weight: bold;
+    color: #1F3F68;
+    opacity: 1;  
+}
+.col-8 .art_fecha {
+    font-size: 12px;
+    opacity: 1;
+    color: rgb(56, 106, 139)
+}
+
+.iconos {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.art_texto1 h5 {
+    color: #1F3F68;
+}
+
+.art_texto1 p{
+    font-size: 12px;
+}
+
+.col-8 .art_nombre1 {
+    font-weight: bold;
+    color: #1F3F68;
+    opacity: 1;  
+}
+.col-8 .art_fecha1 {
+    font-size: 12px;
+    opacity: 1;
+    color: rgb(56, 106, 139)
+}
+
+.iconos1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
